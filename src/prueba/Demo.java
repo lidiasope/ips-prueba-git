@@ -7,7 +7,7 @@ public class Demo {
 		System.out.println("Mundo");
 		System.out.println("Nueva línea");
 		System.out.println("Nuevo línea usuario");
-		System.out.println("Nueva línea usuario 2 ");
+		System.out.println("Nueva línea usuario 2");
 	}
 	
 }
