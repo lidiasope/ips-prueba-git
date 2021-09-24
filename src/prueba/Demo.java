@@ -5,9 +5,9 @@ public class Demo {
 	public static void main(String[] args) {
 		System.out.println("Hola");
 		System.out.println("Mundo");
-		System.out.println("Nueva línea");
-		System.out.println("Nuevo línea usuario");
-		System.out.println("Nueva línea usuario 2");
+		System.out.println("Nueva lÃ­nea");
+		System.out.println("Nuevo lÃ­nea usuario");
+		System.out.println("Nueva lÃ­nea otro usuario");
 	}
 	
 }
